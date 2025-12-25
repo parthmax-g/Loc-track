@@ -1,0 +1,7 @@
+{
+  "name": "Realtime Location",
+  "short_name": "Tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000"
+}
